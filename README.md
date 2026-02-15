@@ -22,3 +22,9 @@ This project is a Python-based Maze Solver and Pathfinding Visualizer built usin
 ## Controls
 - Arrow Keys → Move player
 - Reach the goal to view algorithm comparisons
+
+
+## Contributors
+-Ifrah-Imran
+-maryam manahil
+-areeba tahir
