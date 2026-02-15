@@ -26,5 +26,6 @@ This project is a Python-based Maze Solver and Pathfinding Visualizer built usin
 
 ## Contributors
 -Ifrah-Imran
--maryam manahil
--areeba tahir
+-Maryam-oss
+-AreebaTahir10
+
